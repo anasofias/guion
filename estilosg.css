@@ -1,0 +1,30 @@
+.contenedora{
+    margin: auto;
+    width: 80%;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 15px;
+
+}
+
+img{
+    width: 98%;
+    border: 2px solid rgb(255, 180, 151);
+    margin: auto;
+
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+    text-shadow: 2px 2px 2px rgb(250, 173, 142); 
+    color: black;
+    padding: 20px;
+    margin:0 auto;
+    background-color: lightblue;
+    width: 75%;
+}
